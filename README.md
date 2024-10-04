@@ -36,9 +36,9 @@ source venv/bin/activate  # On Windows use `venv\\Scripts\\activate`
 Install the required packages:
 
 pip install -r requirements.txt
-Usage
-To run the depth estimation model, use the following command:
 
+## Usage
+To run the depth estimation model, use the following command:
 On Windows:
 
 python depth_estimation.py
